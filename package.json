@@ -1,0 +1,36 @@
+{
+  "name": "johndoe",
+  "version": "1.0.0",
+  "description": "JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^8.2.5",
+    "expose-loader": "^4.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.6.0",
+    "jquery-bridget": "^3.0.1",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  },
+  "dependencies": {
+    "css-loader": "^6.7.1",
+    "isotope-layout": "^3.0.6",
+    "jquery-bridget": "^3.0.1",
+    "masonry-layout": "^4.2.2",
+    "mini-css-extract-plugin": "^2.6.1",
+    "node-sass": "^7.0.1",
+    "popper.js": "^1.16.1",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1"
+  }
+}
